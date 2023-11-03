@@ -13,7 +13,7 @@ const Category = ({item}) => {
     const Marico= product.filter(item=>item.company==='Marico');
 
     return (
-        <div>
+        <div className='m-10'>
             <Tabs defaultIndex={tabIndex} onSelect={(index) => setTabIndex(index)}>
             <TabList>
                 <Tab>Pran</Tab>
@@ -22,17 +22,41 @@ const Category = ({item}) => {
                 <Tab>Marico</Tab>
             </TabList>
                 <TabPanel>
-                    {
+                   <div className='grid md:grid-cols-3 gap-10'>
+                   {
                         Pran.map(item=><ProductCard
                         item={item}
                         ></ProductCard>)
                     }
+                   </div>
                 </TabPanel>
                 <TabPanel>
-                    
+                <div className='grid md:grid-cols-3 gap-10'>
+                {
+                        Nastle .map(item=><ProductCard
+                        item={item}
+                        ></ProductCard>)
+                    } 
+                </div>
                 </TabPanel>
-                <TabPanel></TabPanel>
-                <TabPanel></TabPanel>
+                <TabPanel>
+                <div className='grid md:grid-cols-3 gap-10'>
+                {
+                        Uniliver.map(item=><ProductCard
+                        item={item}
+                        ></ProductCard>)
+                    }
+                </div>
+                </TabPanel>
+                <TabPanel>
+                <div className='grid md:grid-cols-3 gap-10'>
+                {
+                        Marico.map(item=><ProductCard
+                        item={item}
+                        ></ProductCard>)
+                    }
+                </div>
+                </TabPanel>
             </Tabs>
         </div>
     );
