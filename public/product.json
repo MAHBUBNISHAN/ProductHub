@@ -1,0 +1,284 @@
+[
+{
+    "name": "Pran frooto",
+    "price": 49.99,
+    "company": "PRAN",
+    "ratings": 4.5,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVf8LUSdmXysYs4sim5HOd4K3EHplZ6NeXWA&usqp=CAU"
+},
+{
+    "name": " pran-nazirsail-rice ",
+    "price": 100.00,
+    "company": "PRAN",
+    "ratings": 4.6,
+    "img": "https://images.othoba.com/images/thumbs/0222438_pran-nazirsail-rice-20kg.jpeg"
+},
+{
+    "name": "Pran_chutney",
+    "price": 5.00,
+    "company": "PRAN",
+    "ratings": 4.7,
+    "img": " https://pranfoods.net/sites/default/files/750_750_0015_tatul-chutney-converted.png "
+},
+{
+    "name": "Pran Up",
+    "price": 50.00,
+    "company": "PRAN",
+    "ratings": 4.2,
+    "img": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0ZKnTtMhtggYV5l0F1AiZNYw6LGLOiuyHuw&usqp=CAU "
+},
+{
+    "name": "Pran_Dal",
+    "price": 6.00,
+    "company": "PRAN",
+    "ratings": 4.5,
+    "img": " https://pranfoods.net/sites/default/files/750-750_0004_pran-dal-30-gm.45-min.png "
+},
+{
+    "name": "DRINKO",
+    "price": 30.00,
+    "company": "PRAN",
+    "ratings": 4.9,
+    "img": " https://i0.wp.com/www.khan.com.bd/wp-content/uploads/2020/12/Pran-Drinko-Pineapple-Juice.jpg?resize=300%2C300&ssl=1 "
+},
+{
+    "name": "MIXED-FRUITS",
+    "price": 10.00,
+    "company": "PRAN",
+    "ratings": 4.5,
+    "img": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRVs0nxOTtjjyrdtCfu5KluafBP4Y26fr3qw&usqp=CAU "
+},
+{
+    "name": "Pran-Milk",
+    "price": 500.00,
+    "company": "PRAN",
+    "ratings": 4.8,
+    "img": " https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thebasketbd.com%2Fa05108.html&psig=AOvVaw2LuIkZOxINpmtoExASk30Z&ust=1699076753052000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJj4sqWQp4IDFQAAAAAdAAAAABAR "
+},
+{
+    "name": "Tomato Ketchup",
+    "price": 99.99,
+    "company": "PRAN",
+    "ratings": 4.5,
+    "img": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi-4_TImUyP582l5Q5NER3xub_hqip3vxRNw&usqp=CAU "
+},
+{
+    "name": "Pran Special",
+    "price":35.00,
+    "company": "PRAN",
+    "ratings": 4.5,
+    "img": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMrzc5SXH4MWuGg6z5NANFjc7T1EdYA5XtRA&usqp=CAU "
+},
+{
+    "name": "JiF",
+    "price": 150.00,
+    "company": "Uniliver",
+    "ratings": 4.4,
+    "img": "https://c8.alamy.com/comp/2AFNJP5/jif-cleaning-product-made-by-unilever-2AFNJP5.jpg"
+},
+{
+    "name": "Dove",
+    "price": 200.00,
+    "company": "Uniliver",
+    "ratings": 4.8,
+    "img": "https://media.gettyimages.com/id/1237787276/photo/dove-logo-is-seen-on-the-product-packaging-at-the-shop-in-krakow-poland-on-january-17-2022.jpg?s=612x612&w=gi&k=20&c=cZJf5ZcpxnrmcccFl1wFZVQ2IYhxAZDmnpK7zrbiGXg="
+},
+{
+    "name": "Marmit",
+    "price": 70.00,
+    "company": "Uniliver",
+    "ratings": 4.2,
+    "img": "https://c8.alamy.com/comp/H46J9Y/marmite-persil-unilever-lever-brothers-products-H46J9Y.jpg"
+},
+{
+    "name": "Clear Man Shampoo",
+    "price": 300.00,
+    "company": "Uniliver",
+    "ratings": 4.6,
+    "img": "https://didwblovvwmoz.cloudfront.net/co/theobromindo/images/cropped/go4_apollo_theobromindo_imageUrl_1568118770.jpg?format=webp"
+},
+{
+    "name": "Rexona",
+    "price": 49.99,
+    "company": "Uniliver",
+    "ratings": 4.5,
+    "img": "https://didwblovvwmoz.cloudfront.net/co/theobromindo/images/cropped/go4_apollo_theobromindo_imageUrl_1568120736.jpg?format=webp"
+},
+{
+    "name": "Fair & lovely",
+    "price": 120.00,
+    "company": "Uniliver",
+    "ratings": 4.5,
+    "img": "https://i0.wp.com/www.khan.com.bd/wp-content/uploads/2021/03/Fair-and-Lovely-Face-Cream-Blemish-Balm-BB-40gm.jpg?resize=300%2C300&ssl=1"
+},
+{
+    "name": "Sunsilk",
+    "price": 99.99,
+    "company": "Uniliver",
+    "ratings": 4.6,
+    "img": "https://i0.wp.com/www.khan.com.bd/wp-content/uploads/2021/03/Sunsilk-Conditioner-Perfect-Straight-80ml.jpg?resize=300%2C300&ssl=1"
+},
+{
+    "name": "Surf Excel",
+    "price": 69.99,
+    "company": "Uniliver",
+    "ratings": 4.4,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUNRqErOm4ey-pBrmUuRfkVYreL6Hlgd8QcQ&usqp=CAU"
+},
+{
+    "name": "Wheel Powder",
+    "price": 100.00,
+    "company": "Uniliver",
+    "ratings": 4.5,
+    "img": "https://chaldn.com/_mpimage/wheel-washing-powder-2-in-1-clean-fresh-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D128372&q=best&v=1&m=400"
+},
+{
+    "name": "Lux Soap",
+    "price": 40.00,
+    "company": "Uniliver",
+    "ratings": 4.8,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbV5RZFbSbVu2lviUwELuJANzb3Ywfw4Ye1-P0F1si3ebZm8C323WlrpkTbnAUmu9SD0c&usqp=CAU"
+},
+{
+    "name": "Tazza Tea",
+    "price": 50.99,
+    "company": "Uniliver",
+    "ratings": 4.5,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV4Snt6Yd_0HhHB3ZInE9ALtCF4yBCMs4TJQ&usqp=CAU"
+},
+
+{
+    "name": "Chocolate Ice-Cream",
+    "price": 200.00,
+    "company": "Nestle",
+    "ratings": 4.9,
+    "img": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTB9i1tcnjqv_qw_prkww7B-BrfUDNjj73Tw&usqp=CAU "
+},
+{
+    "name": "Chocolate",
+    "price": 49.99,
+    "company": "Nestle",
+    "ratings": 4.5,
+    "img": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHB-x_LRkfYMmOIBM47RvFkCcX0jjq11k8w&usqp=CAU "
+},
+{
+    "name": "Aero Chocolate",
+    "price": 80.00,
+    "company": "Nestle",
+    "ratings": 4.5,
+    "img": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRVKCy7diqmS8iS9-h23kr3TSL_kPhAi995w&usqp=CAU "
+},
+{
+    "name": "NIDO Milk 1",
+    "price": 300.00,
+    "company": "Nestle",
+    "ratings": 4.5,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAyl-S0aMuZybeuOzDfAPfcIwg49ZiK0fKsg&usqp=CAU"
+},
+{
+    "name": "MilkyBar",
+    "price": 59.99,
+    "company": "Nestle",
+    "ratings": 4.5,
+    "img": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCVtlj2FWzDjPUGHrSirJb7UMC6IktKzWrHw&usqp=CAU "
+},
+{
+    "name": "Nescafe",
+    "price": 49.99,
+    "company": "Nestle",
+    "ratings": 4.5,
+    "img": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQZrSKkz9EF4BsUTC8DaohUsd7pUpG6YT7Pg&usqp=CAU "
+},
+{
+    "name": "Coffee",
+    "price": 270.00,
+    "company": "Nestle",
+    "ratings": 3.5,
+    "img": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxNtGgjnOE49-aR7QVnkwhbzXWYsRXCFWpMQ&usqp=CAU "
+},
+{
+    "name": "KitKat Ice Cream",
+    "price": 150.00,
+    "company": "Nestle",
+    "ratings": 4.7,
+    "img": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSidDuUlxL1t8LJ3irkvvAVuR2j53GcbZwjmQ&usqp=CAU "
+},
+{
+    "name": "Lactozen",
+    "price": 500.00,
+    "company": "Nestle",
+    "ratings": 4.5,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgarFNQsa_2Rvh8N6HK2WQeTYoGd0Xtda-Hg&usqp=CAU"
+},
+{
+    "name": "Fresh Milk",
+    "price": 100.00,
+    "company": "Nestle",
+    "ratings": 4.6,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEYCB4FjgwnhGjnRJgA-BplO36R3awb-faSg&usqp=CAU"
+},
+
+{
+    "name": "Set Wet",
+    "price": 200.00,
+    "company": "Marico",
+    "ratings": 4.5,
+    "img": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTACGYy1WC12ydi1cJBixZQF8jmAz0rMTCgCg&usqp=CAU "
+},
+{
+    "name": "Revive",
+    "price": 69.99,
+    "company": "Marico",
+    "ratings": 5.0,
+    "img": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9OvrR3LVaihMzBNPhmpgc6UoA6JjeYhmWsw&usqp=CAU "
+},
+{
+    "name": "Set Wet",
+    "price": 200.00,
+    "company": "Marico",
+    "ratings": 4.5,
+    "img": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTACGYy1WC12ydi1cJBixZQF8jmAz0rMTCgCg&usqp=CAU "
+},
+{
+    "name": "Revive",
+    "price": 69.99,
+    "company": "Marico",
+    "ratings": 5.0,
+    "img": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9OvrR3LVaihMzBNPhmpgc6UoA6JjeYhmWsw&usqp=CAU "
+},
+{
+    "name": "Set Wet",
+    "price": 200.00,
+    "company": "Marico",
+    "ratings": 4.5,
+    "img": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTACGYy1WC12ydi1cJBixZQF8jmAz0rMTCgCg&usqp=CAU "
+},
+{
+    "name": "Hair Oil",
+    "price": 310.00,
+    "company": "Marico",
+    "ratings": 4.8,
+    "img": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZwPazNS5b8ODbymyeiS3Ad8DZb4_wRMTWZg&usqp=CAU "
+},
+{
+    "name": "Saffola",
+    "price": 500.00,
+    "company": "Marico",
+    "ratings": 4.5,
+    "img": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZDX_i6s8dlibpm5vsrnpYhX_q84Vu2BnSIg&usqp=CAU "
+},
+{
+    "name": "Revive",
+    "price": 69.99,
+    "company": "Marico",
+    "ratings": 5.0,
+    "img": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9OvrR3LVaihMzBNPhmpgc6UoA6JjeYhmWsw&usqp=CAU "
+},
+{
+    "name": "Parashut Oil",
+    "price": 49.99,
+    "company": "Marico",
+    "ratings": 4.5,
+    "img": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM-wI1_Yv6frfb-UHRaITM2Ff1zRLR5YUiCQ&usqp=CAU "
+}
+]
